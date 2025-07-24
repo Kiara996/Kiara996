@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, I'm Kevin 👋</h1>
 
 <p align="center">
-<em>Founder & CEO of <a href="https://www.google.com/search?q=https://arkasync-new.vercel.app/"><strong>Arka Sync</strong></a> | Creative Technologist | Filmmaker</em>
+<em>Founder & CEO of <a href="https://arkasync-new.vercel.app/"><strong>Arka Sync</strong></a> | Creative Technologist | Filmmaker</em>
 </p>
 
 🔭 About Me
@@ -63,7 +63,7 @@ These are some of the technologies and tools I use to bring ideas to life:
 
 Official Arka Sync Website — Built from scratch with Next.js, Tailwind CSS, and Sanity.io as a Headless CMS. This website serves as our team's digital portfolio and information hub.
 
-➡️ View The Webiste: https://wwww.arkasync.my.id
+➡️ View The Webiste: https://www.arkasync.my.id
 
 📊 My GitHub Stats
 <p align="center">
