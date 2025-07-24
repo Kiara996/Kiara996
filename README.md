@@ -4,7 +4,7 @@
 <img src="[YOUR_BANNER_URL]" alt="Profile Banner" width="900"/>
 </p> -->
 
-<h1 align="center">Hi there, I'm [YOUR NAME] 👋</h1>
+<h1 align="center">Hi there, I'm Kevin 👋</h1>
 
 <p align="center">
 <em>Founder & CEO of <a href="https://www.google.com/search?q=https://arkasync-new.vercel.app/"><strong>Arka Sync</strong></a> | Creative Technologist | Filmmaker</em>
@@ -58,17 +58,17 @@ These are some of the technologies and tools I use to bring ideas to life:
 ✨ Featured Project
 <a href="https://www.google.com/search?q=https://arkasync-new.vercel.app/">
 <!-- Replace the URL below with a screenshot of the Arka Sync website -->
-<img src="[URL_OF_ARKASYNC_WEBSITE_SCREENSHOT]" alt="Arka Sync Website Preview" />
+<img src="https://raw.githubusercontent.com/Kiara996/icon/refs/heads/main/arkasync.png" alt="Arka Sync Website Preview" />
 </a>
 
 Official Arka Sync Website — Built from scratch with Next.js, Tailwind CSS, and Sanity.io as a Headless CMS. This website serves as our team's digital portfolio and information hub.
 
-➡️ View Repository: [LINK_TO_ARKASYNC_REPO_IF_PUBLIC]
+➡️ View The Webiste: https://wwww.arkasync.my.id
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&theme=dracula" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=kiara996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkiara996&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 📫 Let's Connect!
@@ -76,6 +76,6 @@ I'm always open to discussing new projects, creative ideas, or collaboration opp
 
 <p align="left">
 <a href="https://www.google.com/search?q=https://arkasync-new.vercel.app/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/Website-5061f7%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="website" /></a>
-<a href="[YOUR_LINKEDIN_URL]" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" /></a>
-<a href="[YOUR_INSTAGRAM_URL]" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://www.linkedin.com/in/kevin-fauzan/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="linkedin" /></a>
+<a href="https://www.instagram.com/kevinfa__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
