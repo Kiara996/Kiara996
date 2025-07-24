@@ -4,7 +4,7 @@
 <img src="[YOUR_BANNER_URL]" alt="Profile Banner" width="900"/>
 </p> -->
 
-<h1 align="center">Hi there, I'm Kevin 👋</h1>
+<h1 align="center">Yow Welcome, I'm Kevin 👋</h1>
 
 <p align="center">
 <em>Founder & CEO of <a href="https://arkasync-new.vercel.app/"><strong>Arka Sync</strong></a> | Creative Technologist | Filmmaker</em>
