@@ -65,12 +65,6 @@ Official Arka Sync Website — Built from scratch with Next.js, Tailwind CSS, an
 
 ➡️ View The Webiste: https://www.arkasync.my.id
 
-📊 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kiara996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkiara996&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
 📫 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or collaboration opportunities.
 
