@@ -16,7 +16,7 @@
 
 I'm a first-year Information Systems student at the **Faculty of Computer Science, Universitas Indonesia (Fasilkom UI)**, passionate about the intersection of technology, creativity, and business. My journey began long before university, driven by a curiosity to build and create. This led me to found **Arka Sync**, where I lead a team to deliver impactful digital solutions, and to direct the **ICT Festival 2024**, a large-scale hybrid event where I coordinated multiple student organizations.
 
-My diverse background from **web development** and **project management** to **filmmaking** and **sound engineering**—allows me to approach challenges with a holistic and user centric perspective. I am dedicated to using technology to solve real world problems and bring compelling stories to life.
+My diverse background—from **web development** and **project management** to **filmmaking** and **sound engineering**—allows me to approach challenges with a holistic and user-centric perspective. I am dedicated to using technology to solve real-world problems and bring compelling stories to life.
 
 - 🚀 Leading **Arka Sync** to deliver innovative digital and creative solutions for various clients.
 - 💻 Developing modern and accessible websites, with a focus on platforms for organizations and businesses.
@@ -36,16 +36,21 @@ These are some of the technologies and tools I frequently use to bring ideas to 
   
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  
-  <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17177659%3Fs%3D200%26v%3D4" alt="Sanity.io" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neon/neon-original.svg" alt="Neon DB" width="40" height="40"/></a>
+  <a href="https://vercel.com/storage/blob" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel Blob" width="40" height="40"/></a>
+
+  <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" alt="Sanity.io" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
+  <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Apps Script" width="40" height="40"/></a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg" alt="Premiere Pro" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_Logo.svg" alt="After Effects" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/></a>
 </p>
 
 ---
@@ -73,5 +78,5 @@ These are some of the technologies and tools I frequently use to bring ideas to 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
 <p align="center">
-  📧: <strong>kevin@arkasync.id</strong>
+  📧: <strong>kevinfa.work@gmail.com</strong>
 </p>
