@@ -41,7 +41,7 @@ These are some of the technologies and tools I frequently use to bring ideas to 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
-  <a href="https://neon.tech/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neon/neon-original.svg" alt="Neon DB" width="40" height="40"/></a>
+  <a href="https://neon.tech/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/neon/neon-original.svg" alt="Neon DB" width="40" height="40"/></a>
   <a href="https://vercel.com/storage/blob" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel Blob" width="40" height="40"/></a>
 
   <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" alt="Sanity.io" width="40" height="40"/></a>
