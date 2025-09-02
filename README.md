@@ -16,7 +16,7 @@
 
 I'm a first-year Information Systems student at the **Faculty of Computer Science, Universitas Indonesia (Fasilkom UI)**, passionate about the intersection of technology, creativity, and business. My journey began long before university, driven by a curiosity to build and create. This led me to found **Arka Sync**, where I lead a team to deliver impactful digital solutions, and to direct the **ICT Festival 2024**, a large-scale hybrid event where I coordinated multiple student organizations.
 
-My diverse background—from **web development** and **project management** to **filmmaking** and **sound engineering**—allows me to approach challenges with a holistic and user-centric perspective. I am dedicated to using technology to solve real-world problems and bring compelling stories to life.
+My diverse background from **web development** and **project management** to **filmmaking** and **sound engineering**—allows me to approach challenges with a holistic and user centric perspective. I am dedicated to using technology to solve real world problems and bring compelling stories to life.
 
 - 🚀 Leading **Arka Sync** to deliver innovative digital and creative solutions for various clients.
 - 💻 Developing modern and accessible websites, with a focus on platforms for organizations and businesses.
@@ -73,5 +73,5 @@ These are some of the technologies and tools I frequently use to bring ideas to 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
 <p align="center">
-  📧: <strong>kevinfa.work@gmail.com</strong>
+  📧: <strong>kevin@arkasync.id</strong>
 </p>
