@@ -83,5 +83,5 @@ These are some of the technologies and tools I frequently use to bring ideas to 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
 <p align="center">
-  📧: <strong>kevinfa.work@gmail.com</strong>
+  📧: <strong>kevinfauzanarjuna09@gmail.com</strong>
 </p>
