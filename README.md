@@ -27,13 +27,18 @@ My diverse background—from **web development** and **project management** to *
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiara996&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiara996&layout=compact&theme=dark" alt="Kevin's Top Languages" />
-</p>
-<p align="center">
-  </p>
+<br>
 
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiara996&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kiara996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
 ---
 
 ### 🛠️ My Tech Stack & Tools
