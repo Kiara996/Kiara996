@@ -39,6 +39,7 @@ My diverse background—from **web development** and **project management** to *
 
 <br>
 <br>
+
 ---
 
 ### 🛠️ My Tech Stack & Tools
