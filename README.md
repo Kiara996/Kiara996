@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kevin Fauzan Arjuna 👋</h1>
+<h1 align="center">Hi! I'm Kevin Fauzan Arjuna 👋</h1>
 
 <p align="center">
   <em>Information Systems Student at <strong><a href="https://cs.ui.ac.id/">Fasilkom UI</a></strong> | Founder of <strong><a href="https://www.arkasync.my.id/">Arka Sync</a></strong> | Creative Technologist & Filmmaker</em>
