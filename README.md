@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-fauzan-arjuna" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://www.instagram.com/kevinfa__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://www.arkasync.my.id/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-5061f7?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>
+  <a href="https://www.arkasync.my.id/teams/kevin" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-5061f7?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>
 </p>
 
 ---
