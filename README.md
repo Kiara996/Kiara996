@@ -25,6 +25,17 @@ My diverse background—from **web development** and **project management** to *
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiara996&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiara996&layout=compact&theme=dark" alt="Kevin's Top Languages" />
+</p>
+<p align="center">
+  </p>
+
+---
+
 ### 🛠️ My Tech Stack & Tools
 
 These are some of the technologies and tools I frequently use to bring ideas to life:
@@ -45,6 +56,9 @@ These are some of the technologies and tools I frequently use to bring ideas to 
   <a href="https://vercel.com/storage/blob" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel Blob" width="40" height="40"/></a>
 
   <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" alt="Sanity.io" width="40" height="40"/></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
   <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" alt="Google Apps Script" width="40" height="40"/></a>
   <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40"/></a>
