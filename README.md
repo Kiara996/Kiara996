@@ -1,13 +1,13 @@
 <h1 align="center">Hi! I'm Kevin Fauzan Arjuna 👋</h1>
 
 <p align="center">
-  <em>Information Systems Student at <strong><a href="https://cs.ui.ac.id/">Fasilkom UI</a></strong> | Founder of <strong><a href="https://www.arkasync.my.id/">Arka Sync</a></strong> | Creative Technologist & Filmmaker</em>
+  <em>Information Systems Student at <strong><a href="https://cs.ui.ac.id/">Fasilkom UI</a></strong> | Founder of <strong><a href="https://www.arkasync.id/">Arka Sync</a></strong> | Creative Technologist & Filmmaker</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-fauzan-arjuna" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://www.instagram.com/kevinfa__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://www.arkasync.my.id/teams/kevin" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-5061f7?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>
+  <a href="https://www.arkasync.id/teams/kevin" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-5061f7?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>
 </p>
 
 ---
@@ -92,7 +92,7 @@ My diverse background from **web development** and **project management** to **f
 
 ### ✨ Featured Project: Arka Sync Official Website
 
-<a href="https://www.arkasync.my.id/">
+<a href="https://www.arkasync.id/">
   <img src="https://raw.githubusercontent.com/Kiara996/icon/refs/heads/main/arkasync.png" alt="Arka Sync Website Preview" />
 </a>
 
@@ -101,7 +101,7 @@ My diverse background from **web development** and **project management** to **f
 </p>
 
 <p align="center">
-  <a href="https://www.arkasync.my.id/" target="_blank">
+  <a href="https://www.arkasync.id/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Website-blue?style=for-the-badge&logo=arrow-right&logoColor=white" alt="View Website" />
   </a>
 </p>
