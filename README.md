@@ -18,14 +18,14 @@ I'm a first-year Information Systems student at the **Faculty of Computer Scienc
 
 My diverse background from **web development** and **project management** to **filmmaking** and **sound engineering** allows me to approach challenges with a holistic and user-centric perspective. I am dedicated to using technology to solve real-world problems and bring compelling stories to life.
 
-- 🚀 Leading **Arka Sync** to deliver innovative digital and creative solutions for various clients.
-- 💻 Developing modern and accessible websites, with a focus on platforms for organizations and businesses.
-- 🎬 Bringing stories to life through filmmaking and comprehensive video production.
-- 🌱 Actively seeking opportunities to collaborate on innovative projects and create a positive impact.
+-  Leading **Arka Sync** to deliver innovative digital and creative solutions for various clients.
+-  Developing modern and accessible websites, with a focus on platforms for organizations and businesses.
+-  Bringing stories to life through filmmaking and comprehensive video production.
+-  Actively seeking opportunities to collaborate on innovative projects and create a positive impact.
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kiara996&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=6" alt="Kevin's GitHub Stats" width="49.5%" />
@@ -38,7 +38,7 @@ My diverse background from **web development** and **project management** to **f
 
 ---
 
-### ✨ Featured Project: Arka Sync Official Website
+###  Featured Project: Arka Sync Official Website
 
 <a href="https://www.arkasync.id/">
   <img src="https://raw.githubusercontent.com/Kiara996/icon/refs/heads/main/arkasync.png" alt="Arka Sync Website Preview" />
