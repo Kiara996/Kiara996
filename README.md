@@ -16,8 +16,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kiara996&label=Profile%20Views&color=5061F7&style=flat-square" alt="profile views"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5061F7,100:F5A623&height=3&width=100%"/>
