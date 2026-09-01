@@ -71,14 +71,6 @@ Hi, I'm Kevin. I'm a first-year Information Systems student at Fasilkom UI, and 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kiara996&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kiara996&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiara996&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5061F7,100:F5A623&height=3&width=100%"/>
 
 ### 🎞️ Contribution Snake
@@ -99,6 +91,7 @@ Hi, I'm Kevin. I'm a first-year Information Systems student at Fasilkom UI, and 
 
 - I usually check a mix on cheap headphones before a studio monitor, just to hear it the way most people actually will.
 - I still keep a camera on hand for random shoots, even on busy weeks.
+- I don't have a professional camera yet, but I still love doing photography with my phone.
 
 </details>
 
